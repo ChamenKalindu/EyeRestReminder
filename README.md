@@ -19,8 +19,8 @@ This application automates that rule — reminding you to take timely breaks, us
 😊 Cross-Platform Notifications — Works on Windows, macOS, and Linux (via plyer).
 
 # Authors
-chamen kalindu
-rahul divyanja
-chathum pathirana
-hasala gayendra
+chamen kalindu |
+rahul divyanja |
+chathum pathirana |
+hasala gayendra |
 nishmika ekanayake
